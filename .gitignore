@@ -1,0 +1,4 @@
+node_modules
+cypress/downloads
+cypress.env.json
+cypress/e2e/test.cy.js

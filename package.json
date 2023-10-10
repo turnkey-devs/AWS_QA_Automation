@@ -1,0 +1,22 @@
+{
+  "name": "aws_qa_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turnkey-devs/AWS_QA_Automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turnkey-devs/AWS_QA_Automation/issues"
+  },
+  "homepage": "https://github.com/turnkey-devs/AWS_QA_Automation#readme",
+  "dependencies": {
+    "cypress": "^13.2.0"
+  }
+}
